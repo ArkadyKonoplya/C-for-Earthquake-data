@@ -1,0 +1,7 @@
+Run the promote package in following order:
+
+-First Run DDL
+- Get the data imported from 'Main Data.txt' file to the table tbl_Earthquake
+- Run store proc sp_GetAllAirports
+-Run DML
+-Run store proc sp_GetAllLocations

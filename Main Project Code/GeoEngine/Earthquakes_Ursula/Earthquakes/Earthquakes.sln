@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Earthquakes", "Earthquakes.csproj", "{8E260881-FCEC-4E86-9A00-84D9B0328EC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoEngine_Workspace", "..\GeoEngine\GeoEngine_Workspace\GeoEngine_Workspace.csproj", "{350173BD-DE46-42FA-AA5D-548214273E43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E260881-FCEC-4E86-9A00-84D9B0328EC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E260881-FCEC-4E86-9A00-84D9B0328EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E260881-FCEC-4E86-9A00-84D9B0328EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E260881-FCEC-4E86-9A00-84D9B0328EC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{350173BD-DE46-42FA-AA5D-548214273E43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{350173BD-DE46-42FA-AA5D-548214273E43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{350173BD-DE46-42FA-AA5D-548214273E43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{350173BD-DE46-42FA-AA5D-548214273E43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D34D7E8-9076-466C-A9F4-BD92996817B2}
+	EndGlobalSection
+EndGlobal

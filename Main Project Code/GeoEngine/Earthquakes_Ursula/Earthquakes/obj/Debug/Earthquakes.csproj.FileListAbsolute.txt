@@ -1,0 +1,27 @@
+C:\Geographic Information Systems Semester 2\Advanced Programming - Clay\URSULA\Main Project Code\GeoEngine\Earthquakes_Ursula\Earthquakes\obj\Debug\Earthquakes.csproj.CoreCompileInputs.cache
+C:\Geographic Information Systems Semester 2\Advanced Programming - Clay\URSULA\Main Project Code\GeoEngine\Earthquakes_Ursula\Earthquakes\bin\Debug\Earthquakes.exe.config
+C:\Geographic Information Systems Semester 2\Advanced Programming - Clay\URSULA\Main Project Code\GeoEngine\Earthquakes_Ursula\Earthquakes\bin\Debug\Earthquakes.exe
+C:\Geographic Information Systems Semester 2\Advanced Programming - Clay\URSULA\Main Project Code\GeoEngine\Earthquakes_Ursula\Earthquakes\bin\Debug\Earthquakes.pdb
+C:\Geographic Information Systems Semester 2\Advanced Programming - Clay\URSULA\Main Project Code\GeoEngine\Earthquakes_Ursula\Earthquakes\bin\Debug\GeoEngine_Workspace.exe
+C:\Geographic Information Systems Semester 2\Advanced Programming - Clay\URSULA\Main Project Code\GeoEngine\Earthquakes_Ursula\Earthquakes\bin\Debug\NodaTime.dll
+C:\Geographic Information Systems Semester 2\Advanced Programming - Clay\URSULA\Main Project Code\GeoEngine\Earthquakes_Ursula\Earthquakes\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Geographic Information Systems Semester 2\Advanced Programming - Clay\URSULA\Main Project Code\GeoEngine\Earthquakes_Ursula\Earthquakes\bin\Debug\GeoEngine_Workspace.pdb
+C:\Geographic Information Systems Semester 2\Advanced Programming - Clay\URSULA\Main Project Code\GeoEngine\Earthquakes_Ursula\Earthquakes\bin\Debug\GeoEngine_Workspace.exe.config
+C:\Geographic Information Systems Semester 2\Advanced Programming - Clay\URSULA\Main Project Code\GeoEngine\Earthquakes_Ursula\Earthquakes\bin\Debug\NodaTime.pdb
+C:\Geographic Information Systems Semester 2\Advanced Programming - Clay\URSULA\Main Project Code\GeoEngine\Earthquakes_Ursula\Earthquakes\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Geographic Information Systems Semester 2\Advanced Programming - Clay\URSULA\Main Project Code\GeoEngine\Earthquakes_Ursula\Earthquakes\obj\Debug\Earthquakes.csproj.CopyComplete
+C:\Geographic Information Systems Semester 2\Advanced Programming - Clay\URSULA\Main Project Code\GeoEngine\Earthquakes_Ursula\Earthquakes\obj\Debug\Earthquakes.exe
+C:\Geographic Information Systems Semester 2\Advanced Programming - Clay\URSULA\Main Project Code\GeoEngine\Earthquakes_Ursula\Earthquakes\obj\Debug\Earthquakes.pdb
+C:\Geographic Information Systems Semester 2\Advanced Programming - Clay\URSULA\Main Project Code\GeoEngine\Earthquakes_Ursula\Earthquakes\obj\Debug\Earthquakes.csprojAssemblyReference.cache
+C:\Users\JOSHUA\Downloads\ursula\URSULA\Main Project Code\GeoEngine\Earthquakes_Ursula\Earthquakes\bin\Debug\Earthquakes.exe.config
+C:\Users\JOSHUA\Downloads\ursula\URSULA\Main Project Code\GeoEngine\Earthquakes_Ursula\Earthquakes\obj\Debug\Earthquakes.exe
+C:\Users\JOSHUA\Downloads\ursula\URSULA\Main Project Code\GeoEngine\Earthquakes_Ursula\Earthquakes\obj\Debug\Earthquakes.pdb
+C:\Users\JOSHUA\Downloads\ursula\URSULA\Main Project Code\GeoEngine\Earthquakes_Ursula\Earthquakes\bin\Debug\Earthquakes.exe
+C:\Users\JOSHUA\Downloads\ursula\URSULA\Main Project Code\GeoEngine\Earthquakes_Ursula\Earthquakes\bin\Debug\Earthquakes.pdb
+C:\Users\JOSHUA\Downloads\ursula\URSULA\Main Project Code\GeoEngine\Earthquakes_Ursula\Earthquakes\bin\Debug\GeoEngine_Workspace.exe
+C:\Users\JOSHUA\Downloads\ursula\URSULA\Main Project Code\GeoEngine\Earthquakes_Ursula\Earthquakes\bin\Debug\NodaTime.dll
+C:\Users\JOSHUA\Downloads\ursula\URSULA\Main Project Code\GeoEngine\Earthquakes_Ursula\Earthquakes\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\JOSHUA\Downloads\ursula\URSULA\Main Project Code\GeoEngine\Earthquakes_Ursula\Earthquakes\bin\Debug\GeoEngine_Workspace.pdb
+C:\Users\JOSHUA\Downloads\ursula\URSULA\Main Project Code\GeoEngine\Earthquakes_Ursula\Earthquakes\bin\Debug\NodaTime.pdb
+C:\Users\JOSHUA\Downloads\ursula\URSULA\Main Project Code\GeoEngine\Earthquakes_Ursula\Earthquakes\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\JOSHUA\Downloads\ursula\URSULA\Main Project Code\GeoEngine\Earthquakes_Ursula\Earthquakes\obj\Debug\Earthquakes.csprojResolveAssemblyReference.cache
